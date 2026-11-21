@@ -1,0 +1,11 @@
+{
+  "name": "Cloud PC",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/feature/desktop-lite: {}
+  },
+  "forwardports": [6080],
+  "hostrequirememts": { "cpus":8}
+}
+  
+    
